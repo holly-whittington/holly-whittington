@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @holly-whittington
+- 👋 Hey, I’m Holly!
 - 👀 I’m interested in Python coding and electronic engineering 
 - 🌱 I’m currently a computer science student at Goldsmiths, University of London
 
